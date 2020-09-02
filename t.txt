@@ -1,0 +1,19 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+
+Upgrade-Insecure-Requests: 1
+
+主页用过
+Referer: http://qqhome.cn/zlpt_qhome_consumer/SunFarm/index.html
+
+
+Cookie: JSESSIONID=D1EC9653EE466467837339FC8A5D104F; YOMO_LB_COOKIE_Id=YOMOSID_42a89d4c-cadb-4fcb-b0d7-9f035f923198; login_return_url=http://qqhome.cn/zlpt_qhome_consumer/SunFarm/index.html
+
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+
+
+<a href="plant.html?id=4&amp;make=-1&amp;category=-1&amp;pageIndex=1">种植</a>
